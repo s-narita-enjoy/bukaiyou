@@ -1,0 +1,8 @@
+.ability {
+    float: left;
+  }
+
+.form {
+  display: flex; 
+  justify-Content: space-between;
+}
